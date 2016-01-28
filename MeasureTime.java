@@ -1,4 +1,4 @@
-class MeasureTime {
+public class MeasureTime {
 	public static void main(String[] args) {
 		RandomArray n;
 		int multiple;
